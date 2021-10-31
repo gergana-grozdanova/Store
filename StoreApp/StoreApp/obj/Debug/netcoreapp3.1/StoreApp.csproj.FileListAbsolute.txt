@@ -1,0 +1,14 @@
+C:\Users\Geri\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.exe
+C:\Users\Geri\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.deps.json
+C:\Users\Geri\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.runtimeconfig.json
+C:\Users\Geri\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.runtimeconfig.dev.json
+C:\Users\Geri\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.dll
+C:\Users\Geri\source\repos\StoreApp\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.pdb
+C:\Users\Geri\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csproj.AssemblyReference.cache
+C:\Users\Geri\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geri\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.AssemblyInfoInputs.cache
+C:\Users\Geri\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.AssemblyInfo.cs
+C:\Users\Geri\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.dll
+C:\Users\Geri\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.pdb
+C:\Users\Geri\source\repos\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.genruntimeconfig.cache
